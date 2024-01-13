@@ -2,7 +2,7 @@
 <!-- Logos side by side -->
 <p align="center">
   <a href="https://reactjs.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" width="70">
+    <img src="https://media1.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif?cid=6c09b952o96qeu4my4fss8en2gqi0izi16ep4uvria6l9rq0&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="React Logo" width="70">
   </a>
 
   <a href="https://www.typescriptlang.org/">
