@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1024px-CSS3_logo.svg.png" alt="CSS Logo" width="70">
+    <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=6c09b9521w26pm94fggiqqj5y75o7vi4uguuyskiw88ntiye&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="CSS Logo" width="70">
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
@@ -32,3 +32,6 @@
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=SamuelKodehode&theme=radical" alt="GitHub Stats">
+
+
+ 
