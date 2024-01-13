@@ -1,5 +1,3 @@
-<!-- Big top GIF -->
-![Big GIF](https://miro.medium.com/v2/resize:fit:1358/1*e-CnQ3XcOSjznpnBhMXQKg.gif)
 
 <!-- Logos side by side -->
 <p align="center">
