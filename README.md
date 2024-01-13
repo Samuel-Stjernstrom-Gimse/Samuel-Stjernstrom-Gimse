@@ -18,7 +18,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="HTML Logo" width="70">
+    <img src="https://media4.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif?cid=ecf05e471ddsm19g1balugjgnb4bumesqfofeydnmnuxdk0y&ep=v1_gifs_related&rid=giphy.gif&ct=s" alt="HTML Logo" width="70">
   </a>
 </p>
 
