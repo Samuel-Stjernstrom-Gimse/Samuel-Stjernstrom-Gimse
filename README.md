@@ -10,8 +10,6 @@ Kommentar som ikke vises ;-)
 
 🌐 Currently exploring the vast landscape of web development
 
-# -NFT-
-https://samuelkodehode.github.io/-NFT-/
 
 
 
