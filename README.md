@@ -27,7 +27,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKodehode&layout=compact&theme=radical&hide=html&hide=css" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKodehode&layout=compact&theme=radical&hide=htmlcss" alt="Top Languages">
   </a>
 </p>
 
