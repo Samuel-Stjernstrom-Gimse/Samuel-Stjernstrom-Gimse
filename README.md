@@ -14,6 +14,10 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9524fk7zbl2s5lwobwsc57a5i8nl9qr4u8d8qrjw751&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="JavaScript Logo" width="70">
   </a>
+  
+  <a href="">
+    <img src="https://camo.githubusercontent.com/778714951cd9b5d78e576f2148df29a73a2f84cddad602518eca234511a8fa25/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f36323263613035323037313736312e353930333465373461626233362e676966" alt="JavaScript Logo" width="70">
+  </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img src="https://media0.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif?cid=6c09b9521w26pm94fggiqqj5y75o7vi4uguuyskiw88ntiye&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="CSS Logo" width="70">
