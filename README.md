@@ -12,7 +12,7 @@
 
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9524fk7zbl2s5lwobwsc57a5i8nl9qr4u8d8qrjw751&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="JavaScript Logo" width="90">
+    <img src="https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9524fk7zbl2s5lwobwsc57a5i8nl9qr4u8d8qrjw751&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="JavaScript Logo" width="70">
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
