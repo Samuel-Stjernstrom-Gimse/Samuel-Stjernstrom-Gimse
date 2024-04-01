@@ -39,5 +39,9 @@
 </p>
 
 <p align="center">
+Hello, I'm Samuel, a full-stack web developer.
+I enjoy problem-solving and find satisfaction in overcoming challenges.
+Web development, to me, is more than just code – it's about creating meaningful user experiences.
 
+Outside of coding, I dedicate my free time to photography and spending quality moments with my family.
 <p/>
