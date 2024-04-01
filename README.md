@@ -38,7 +38,7 @@
 
 </p>
 
-<p align="center">
+<p >
 Hello, I'm Samuel, a full-stack web developer.
 I enjoy problem-solving and find satisfaction in overcoming challenges.
 Web development, to me, is more than just code – it's about creating meaningful user experiences.
