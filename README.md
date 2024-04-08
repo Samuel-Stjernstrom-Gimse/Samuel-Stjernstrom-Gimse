@@ -10,7 +10,7 @@
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="[https://media1.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif?cid=6c09b9524fk7zbl2s5lwobwsc57a5i8nl9qr4u8d8qrjw751&ep=v1_stickers_related&rid=giphy.gif&ct=s](https://d2gbo5uoddvg5.cloudfront.net/images/modules/vue.gif)" alt="JavaScript Logo" width="70">
+    <img src="https://d2gbo5uoddvg5.cloudfront.net/images/modules/vue.gif" alt="JavaScript Logo" width="70">
   </a>
 
 
