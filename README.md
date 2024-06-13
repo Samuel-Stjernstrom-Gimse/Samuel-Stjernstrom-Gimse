@@ -34,10 +34,10 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelKodehode&layout=compact&show_icons=true&theme=dark&hide=html,css" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-Gimse&layout=compact&show_icons=true&theme=dark&hide=html,css" alt="Top Languages">
   </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=SamuelKodehode&show_icons=true&theme=dark" alt="GitHub Stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Samuel-Gimse&show_icons=true&theme=dark" alt="GitHub Stats">
 
 </p>
 
